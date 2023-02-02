@@ -53,6 +53,6 @@ timevis(
 
 The result looks fine:
 
-![Chronology part 1](https://github.com/lukeflo/counter_chronology_ptolemies/blob/main/counter_plot_part_1_v2.png?raw=true)
+![Chronology part 1](https://github.com/lukeflo/counter_chronology_ptolemies/blob/main/counter_plot_part_1.png?raw=true)
 
-![Chronology part 2](https://github.com/lukeflo/counter_chronology_ptolemies/blob/main/counter_plot_part_2_v2.png?raw=true)
+![Chronology part 2](https://github.com/lukeflo/counter_chronology_ptolemies/blob/main/counter_plot_part_2.png?raw=true)
