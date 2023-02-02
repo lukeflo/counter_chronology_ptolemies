@@ -33,8 +33,7 @@ and temporary solved with the `timevis`-solution.
 
 ### Current solution
 
-For now, we are using the following relatively easy R-code which takes the data from the csv-table which can be 
-found above:
+For now, we are using the following relatively easy R-code which takes the data from the csv-table which can be found above:
 
 ~~~R
 library(timevis)
