@@ -27,7 +27,9 @@ automatically sort the bars of the ruling periods on top of each other if overla
 it necessary.
 
 Nevertheless, we included our `vistime` as well as our `ggplot` codes here. Maybe someone who takes 
-a look on this repo has a solution for one of these problems.
+a look on this repo has a solution for one of these problems. The Quesiton is also posted on [stack 
+overflow](https://stackoverflow.com/questions/75028646/plotting-historical-periods-in-a-timeline-using-r-and-vistime-package-bc-not-po/75028944#75028944) 
+and temporary solved with the `timevis`-solution.
 
 ### Current solution
 
@@ -49,4 +51,8 @@ timevis(
 )
 ~~~
 
-The result looks fine.
+The result looks fine:
+
+![Chronology part 1](https://github.com/lukeflo/counter_chronology_ptolemies/blob/main/counter_plot_part_1_v2.png?raw=true)
+
+![Chronology part 2](https://github.com/lukeflo/counter_chronology_ptolemies/blob/main/counter_plot_part_2_v2.png?raw=true)
