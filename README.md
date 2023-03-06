@@ -52,6 +52,11 @@ timevis(
 
 The result looks fine:
 
-![Chronology part 1](https://github.com/lukeflo/counter_chronology_ptolemies/blob/main/counter_plot_part_1.png?raw=true)
+![Chronology part 1](https://github.com/lukeflo/counter_chronology_ptolemies/blob/main/counter_plot_part_1_v2.png?raw=true)
 
-![Chronology part 2](https://github.com/lukeflo/counter_chronology_ptolemies/blob/main/counter_plot_part_2.png?raw=true)
+![Chronology part 2](https://github.com/lukeflo/counter_chronology_ptolemies/blob/main/counter_plot_part_2_v2.png?raw=true)
+
+Now new periods, including all important rulers, can be created. Simply, by going from one beginning of a single ruling period to the next end of a single ruling 
+period, no matter on which level the start or end of the bar is located:
+
+![New formed Periods](https://github.com/lukeflo/counter_chronology_ptolemies/blob/main/counter_plot_new_periods.png?raw=true)
